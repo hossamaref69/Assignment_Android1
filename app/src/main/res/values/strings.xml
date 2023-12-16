@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Facebook_Login_Screen</string>
+    <string name="facebook">facebook</string>
+    <string name="email_or_phone_number">Email or phone number</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="sing_up_for_facebook">Sing up for Facebook</string>
+    <string name="help_center">Help Center</string>
+</resources>
